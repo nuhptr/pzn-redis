@@ -1,0 +1,4 @@
+set adi "Adi Nugraha Putra"
+set eko "Eko Mulyadi"
+set joko "Joko Susilo"
+set budi "Budi Santoso"
